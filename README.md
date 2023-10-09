@@ -17,10 +17,6 @@ Pour commencer, suivez le lien vers [Chapitre 1 : Introduction aux Blockchains](
 
 Nous encourageons les contributions de la communauté pour améliorer et étendre ces tutoriels. Si vous avez des idées d'amélioration, des corrections ou si vous souhaitez ajouter des tutoriels sur des sujets connexes, veuillez consulter notre [Guide de contribution](CONTRIBUTING.md) pour plus d'informations.
 
-## Licence
-
-Ce dépôt est sous licence [MIT](LICENSE), ce qui signifie que vous êtes libre de l'utiliser, de le modifier et de le distribuer, sous réserve de certaines conditions. Veuillez consulter le fichier LICENSE pour plus de détails.
-
 ## Contact
 
 Si vous avez des questions, des commentaires ou des préoccupations, n'hésitez pas à nous contacter. Vous pouvez créer une [issue](https://github.com/djtalez/tuto/issues) .
