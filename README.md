@@ -13,6 +13,13 @@ Ce chapitre constitue le point de départ de notre série de tutoriels sur les b
 
 Pour commencer, suivez le lien vers [Chapitre 1 : Introduction aux Blockchains](chapitre1.md).
 
+## Chapitre 2 : Création d'un Smart Contrat "Hello World"
+
+Dans ce deuxième chapitre, vous apprendrez comment créer un smart contrat "Hello World" sur une blockchain. Vous découvrirez les étapes de base pour déployer un contrat intelligent qui affiche un message simple.
+
+Pour commencer, suivez le lien vers [Chapitre 2 : Création d'un Smart Contrat "Hello World"](chapitre2.md).
+
+
 ## Contribuer
 
 Nous encourageons les contributions de la communauté pour améliorer et étendre ces tutoriels. Si vous avez des idées d'amélioration, des corrections ou si vous souhaitez ajouter des tutoriels sur des sujets connexes, veuillez consulter notre [Guide de contribution](CONTRIBUTING.md) pour plus d'informations.
