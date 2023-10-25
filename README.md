@@ -19,6 +19,11 @@ Dans ce deuxième chapitre, vous apprendrez comment créer un smart contrat "Hel
 
 Pour commencer, suivez le lien vers [Chapitre 2 : Création d'un Smart Contrat "Hello World"](chapitre2.md).
 
+## Chapitre 3 : Création d'un Smart Contrat "Loterie"
+
+Dans ce troisième chapitre, vous apprendrez comment créer un smart contrat "Loterie" sur une blockchain privée puis sur testnet. Nous utiliserons les events et ferons appel à un oracle.
+
+Pour commencer, suivez le lien vers [Chapitre 3 : Le Smart Contrat "Loterie"](chapitre3.md).
 
 ## Contribuer
 
@@ -26,6 +31,6 @@ Nous encourageons les contributions de la communauté pour améliorer et étendr
 
 ## Contact
 
-Si vous avez des questions, des commentaires ou des préoccupations, n'hésitez pas à nous contacter. Vous pouvez créer une [issue](https://github.com/djtalez/tuto/issues) .
+Si vous avez des questions, des commentaires ou des préoccupations, n'hésitez pas à nous contacter. Vous pouvez créer une [issue](https://github.com/djtalez/tuto/issues).
 
 Nous espérons que ces tutoriels vous seront utiles pour mieux comprendre le monde des blockchains et que vous apprécierez votre séjour dans ce dépôt ! Bon apprentissage !
